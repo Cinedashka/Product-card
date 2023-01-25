@@ -9,6 +9,9 @@ Product description, product price, colors and so more.
 - [HTML]
 - [CSS]
 
+## Preview
+<img src='product-cardim.PNG' title='' width='' alt='' />
+
 ## Testing web app
 
 - Clone repository.

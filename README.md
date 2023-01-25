@@ -10,7 +10,7 @@ Product description, product price, colors and so more.
 - [CSS]
 
 ## Preview
-<img src='product-cardim.PNG' title='' width='' alt='' />
+<img src='PC.PNG' title='' width='' alt='' />
 
 ## Testing web app
 
